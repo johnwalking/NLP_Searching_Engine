@@ -1,3 +1,4 @@
+( 先解壓縮 documents )
 1.執行 main.py --query 加上想查詢文字 即可
 
 2.文件檔都包含在壓縮檔裡，不用額外更改
@@ -12,5 +13,5 @@
 		   ，然後保存起來，只保存第一次，因為此值不會隨查詢輸入而更改，故設立self.count做判斷處理
 
 ＊範例輸入：
-python main.py --query "drill wood sharp"
+python main.py --query "test engine"
 
